@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dave Williams
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning React framework.
+- 👀 I’m a MERN full stack web developer.
+- 🌱 Check out my repositories!
 - 📫 How to reach me? Davwill@live.com 
 
